@@ -1,4 +1,11 @@
 # Zelda: Echoes of Wisdom — port para PC (Windows)
+<img width="1470" height="912" alt="image" src="https://github.com/user-attachments/assets/c50493b0-d535-4404-a050-4a6f09eaeb81" />
+<img width="1457" height="917" alt="image" src="https://github.com/user-attachments/assets/7c9d9876-ffb8-4895-8563-fda9b0191310" />
+<img width="1536" height="864" alt="ZeldaEoW_PC_test Screenshot 2026 11 12 - 19 45 35 06" src="https://github.com/user-attachments/assets/bf2ad0b4-d626-4805-841b-32f7816fb1ba" />
+<img width="1536" height="864" alt="ZeldaEoW_PC_test Screenshot 2026 11 12 - 19 45 49 78" src="https://github.com/user-attachments/assets/e0c5cf5c-0d10-42a6-9f7f-3c3a4cb96b6e" />
+
+
+
 
 Port nativo para Windows de *The Legend of Zelda: Echoes of Wisdom* (Switch, versión 1.0.0) mediante
 **recompilación estática**: el código del juego se traduce a C y se compila como un programa de PC.
