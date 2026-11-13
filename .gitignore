@@ -1,0 +1,60 @@
+# ---- the game: never in this repository ----
+*.nsp
+*.nsz
+*.xci
+*.xcz
+*.nca
+*.nso
+*.nro
+*.keys
+prod.keys
+title.keys
+games/
+ZeldaEoW_data/
+ZeldaEoW_build/
+*_code.dll
+controller_icons/
+save/
+saves/
+
+# ---- launcher art (shows Nintendo's characters and logo) ----
+launcher/assets/
+
+# ---- releases and build output ----
+release/*
+!release/LEEME.txt
+*.zip
+*.exe
+*.dll
+*.o
+*.a
+*.obj
+*.lib
+*.pdb
+*.res
+bin/
+captures/
+shader_cache/
+vulkan_native/
+*.log
+*.vkshaders
+*.vkshipped
+
+# ---- downloaded / third-party build tools ----
+tools/SwitchRECOMP/gcc/
+tools/SwitchRECOMP/python/
+tools/SwitchRECOMP/tcc/
+tools/SwitchRECOMP/tool/deps/
+tools/SwitchRECOMP/tool/pylib/
+tools/SwitchRECOMP/runtime/snxvk/deps/
+tools/SwitchRECOMP/runtime/snxvk/obj_*/
+tools/nasm/
+tools/src/
+tools/hactool/
+work/
+
+# ---- misc ----
+__pycache__/
+*.pyc
+.vscode/
+.idea/
